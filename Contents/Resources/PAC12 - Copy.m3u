@@ -1,0 +1,43 @@
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="PAC-12 Arizona 1080p" tvg-logo="az.png" group-title="",Arizona 1080p
+http://xrxs.net/video/live-p12ariz-4728.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PAC-12 Arizona 360p" tvg-logo="az.png" group-title="",Arizona 360p
+http://xrxs.net/video/live-p12ariz-1164.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PAC-12 Arizona 720p" tvg-logo="az.png" group-title="",Arizona 720p
+http://xrxs.net/video/live-p12ariz-2328.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PAC-12 Bayarea 1080p" tvg-logo="bayarea.png" group-title="",Bayarea 1080p
+http://xrxs.net/video/live-p12baya-4728.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PAC-12 Bayarea 360p" tvg-logo="bayarea.png" group-title="",Bayarea 360p
+http://xrxs.net/video/live-p12baya-1164.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PAC-12 Bayarea 720p" tvg-logo="bayarea.png" group-title="",Bayarea 720p
+http://xrxs.net/video/live-p12baya-2328.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PAC-12 Los Angeles 1080p" tvg-logo="la.png" group-title="",Los Angeles 1080p
+http://xrxs.net/video/live-p12losa-4728.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PAC-12 Los Angeles 360p" tvg-logo="la.png" group-title="",Los Angeles 360p
+http://xrxs.net/video/live-p12losa-1164.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PAC-12 Los Angeles 720p" tvg-logo="la.png" group-title="",Los Angeles 720p
+http://xrxs.net/video/live-p12losa-2328.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PAC-12 Mountain 1080p" tvg-logo="mountain.png" group-title="",Mountain 1080p
+http://xrxs.net/video/live-p12moun-4728.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PAC-12 Mountain 360p" tvg-logo="mountain.png" group-title="",Mountain 360p
+http://xrxs.net/video/live-p12moun-1164.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PAC-12 Mountain 720p" tvg-logo="mountain.png" group-title="",Mountain 720p
+http://xrxs.net/video/live-p12moun-2328.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PAC-12 Network 1080p" tvg-logo="icon-default.png" group-title="",PAC-12 Network 1080p
+http://xrxs.net/video/live-p12netw-4728.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PAC-12 Network 360p" tvg-logo="icon-default.png" group-title="",PAC-12 Network 360p
+http://xrxs.net/video/live-p12netw-1164.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PAC-12 Network 720p" tvg-logo="icon-default.png" group-title="",PAC-12 Network 720p
+http://xrxs.net/video/live-p12netw-2328.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PAC-12 Oregon 1080p" tvg-logo="oregon.png" group-title="",Oregon 1080p
+http://xrxs.net/video/live-p12oreg-4728.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PAC-12 Oregon 360p" tvg-logo="oregon.png" group-title="",Oregon 360p
+http://xrxs.net/video/live-p12oreg-1164.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PAC-12 Oregon 720p" tvg-logo="oregon.png" group-title="",Oregon 720p
+http://xrxs.net/video/live-p12oreg-2328.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PAC-12 Washington 1080p" tvg-logo="washington.png" group-title="",Washington 1080p
+http://xrxs.net/video/live-p12wash-4728.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PAC-12 Washington 360p" tvg-logo="washington.png" group-title="",Washington 360p
+http://xrxs.net/video/live-p12wash-1164.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PAC-12 Washington 720p" tvg-logo="washington.png" group-title="",Washington 720p
+http://xrxs.net/video/live-p12wash-2328.m3u8
