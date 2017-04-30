@@ -1,5 +1,5 @@
 ﻿## Plex plug-in that plays PAC 12 Network Streams 
-### Introduction ###* This is my first channel for plex. I have utilized code from Cigaras major credit goes to him for the backbone of this project. I just modified it for exclusive PAC 12 streams.
+### Introduction This is my first channel for plex. I have utilized code from Cigaras major credit goes to him for the backbone of this project. I just modified it for exclusive PAC 12 streams.
 
 ### Credits and contacts ###
 * Main backbone: [Valdas Vaitiekaitis](http://valdas.ax.lt), also known as [Cigaras](http://forums.plex.tv/profile/Cigaras)
