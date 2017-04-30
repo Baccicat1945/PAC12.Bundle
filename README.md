@@ -8,7 +8,7 @@
 If You have any questions or suggestions, please feel free to contact me via [GitHub](https://github.com/KingKoopa08) 
 
 ### License ###
-Copyright © 2013-2017 Valdas Vaitiekaitis
+Copyright © 2013-2017 KingKoopa08 
 
 This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
 
