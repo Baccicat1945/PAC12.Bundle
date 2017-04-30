@@ -1,15 +1,11 @@
 ﻿## Plex plug-in that plays PAC 12 Network Streams 
-### Introduction ### This is my first channel for plex. I have utilized code from Cigaras major credit goes to him for the backbone of this project. I just modified it for exclusive PAC 12 streams.
+### Introduction ###* This is my first channel for plex. I have utilized code from Cigaras major credit goes to him for the backbone of this project. I just modified it for exclusive PAC 12 streams.
 
 ### Credits and contacts ###
-* Author: [Valdas Vaitiekaitis](http://valdas.ax.lt), also known as [Cigaras](http://forums.plex.tv/profile/Cigaras);
-* New icons (used in version [2.x](https://github.com/Cigaras/IPTV.bundle/releases)) made using [Font Awesome](http://fontawesome.io) by Dave Gandy, licensed under [SIL OFL 1.1](http://scripts.sil.org/OFL);
-* Old [icons](http://www.iconarchive.com/show/ultrabuuf-icons-by-mattahan.html) (used in version [1.x](https://github.com/Cigaras/IPTV.bundle/releases/tag/v1.2.10)) by artist Paul Davey, also known as [Mattahan](http://mattahan.deviantart.com/), licensed under [CC BY-NC-SA 3.0](http://creativecommons.org/licenses/by-nc-sa/3.0);
-* [Artwork](http://www.flickr.com/photos/purplesherbet/10579021143) by photographer D. Sharon Pruitt, owner of [Purple Sherbet Photography](http://www.flickr.com/photos/purplesherbet/), licensed under [CC BY 2.0](http://creativecommons.org/licenses/by/2.0);
-* Contributors: [listed on GiHub](https://github.com/Cigaras/IPTV.bundle/graphs/contributors);
-* Advisers: [Shopgirl284](https://github.com/https://forums.plex.tv/profile/discussions/shopgirl284), [Mikedm139](https://forums.plex.tv/profile/discussions/mikedm139), [Sander1](https://forums.plex.tv/profile/discussions/sander1).
+* Main backbone: [Valdas Vaitiekaitis](http://valdas.ax.lt), also known as [Cigaras](http://forums.plex.tv/profile/Cigaras)
 
-If You have any questions or suggestions, please feel free to contact me via [GitHub](https://github.com/Cigaras) or [Plex forum](https://forums.plex.tv/discussion/83083), or visit my personal blog at [valdasv.blogspot.lt](http://valdasv.blogspot.lt), but please keep in mind that I did this plug-in voluntary in my spare time and I have other priorities to do so do not expect a quick response. However if You find my work useful, please consider making a small [donation](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=Cigaras%40gmail%2ecom&lc=LT&currency_code=EUR&bn=PP%2dDonationsBF%3abtn_donate_LG%2egif%3aNonHosted) as a sign of gratitude and support. Also accepting bitcoins via address 1JmRsoHWD6j1vcsUpckBRkaCdvcqpATJby.
+
+If You have any questions or suggestions, please feel free to contact me via [GitHub](https://github.com/KingKoopa08) 
 
 ### License ###
 Copyright © 2013-2017 Valdas Vaitiekaitis
