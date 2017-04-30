@@ -1,15 +1,5 @@
-## Plex plug-in that plays live streams (like IPTV) from a M3U playlist ##
-[![Current Release](https://img.shields.io/github/release/Cigaras/IPTV.bundle.svg "Current Release")](https://github.com/Cigaras/IPTV.bundle/releases/latest)
-[![Downloads](https://img.shields.io/github/downloads/Cigaras/IPTV.bundle/total.svg "Downloads")](https://github.com/Cigaras/IPTV.bundle/releases) [![PayPal](https://img.shields.io/badge/donate-PayPal-green.svg)](https://paypal.me/valdasvaitiekaitis) [![BitCoin](https://img.shields.io/badge/donate-BitCoin-green.svg)](http://valdas.ax.lt/bitcoin)
-
-### Introduction ###
-A simple [Plex Media Servers](https://www.plex.tv/downloads) plug-in that reads live streams (like [IPTV](http://en.wikipedia.org/wiki/IPTV)) urls from a [m3u](https://en.wikipedia.org/wiki/M3U) file and passes 'em to Plex in format understandable to Plex so it could try to play them.
-
-In short, as title states, it lets You watch IPTV in Plex.
-
-It also has a basic program guide, categories, custom logos and other goodies, **please read the [wiki](https://github.com/Cigaras/IPTV.bundle/wiki)** for information on how to set all up.
-
-_Important note:_ Playback is handled by Plex itself, not the plug-in, and many streams are not playable by many Plex players, **please read the [wiki](https://github.com/Cigaras/IPTV.bundle/wiki)** for more information and possible [solutions](https://github.com/Cigaras/IPTV.bundle/wiki/Troubleshooting) if Your desired stream does not work.
+﻿## Plex plug-in that plays PAC 12 Network Streams 
+### Introduction ### This is my first channel for plex. I have utilized code from Cigaras major credit goes to him for the backbone of this project. I just modified it for exclusive PAC 12 streams.
 
 ### Credits and contacts ###
 * Author: [Valdas Vaitiekaitis](http://valdas.ax.lt), also known as [Cigaras](http://forums.plex.tv/profile/Cigaras);
